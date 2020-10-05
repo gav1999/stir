@@ -1,0 +1,43 @@
+.primary {
+    color: white;
+    text-align: center;
+    background-color: #40e0d0;
+    
+}
+
+.subheader {
+    color: white;
+
+}
+
+.body {
+    background-color: rgb(206, 79, 206);
+}
+
+
+#search {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.card {
+    margin: 0 auto;
+}
+
+#cardtainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#cardtainer > div {
+    background-color: #ee6055;
+    color:white;
+    max-width: 400px;
+    
+    width: 400px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
